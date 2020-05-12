@@ -1,4 +1,4 @@
-# Hypothesis Assignment
+# Hypothesis Testing Assignment
 
 Hypotheis Testing Assingment uploaded on 5/12/2020
 
