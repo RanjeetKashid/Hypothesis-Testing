@@ -1,3 +1,7 @@
 # Data-Science
+
 Data Science Codes
-Assignment 1 files
+
+Basic Statistics File
+
+Hypotheis Testing Assingment 5/12/2020
