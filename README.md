@@ -2,7 +2,7 @@
 
 Hypotheis Testing Assingment uploaded on 5/12/2020
 
-Contains the porblem statement, R code, solution and the necessary csv files
+Contains the problem statement, R code, solution and the necessary csv files
 
 Hypothesis Testing_Problem Statement contains the Problem Statement.
 
